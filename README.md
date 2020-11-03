@@ -28,7 +28,7 @@ I am a robotics engineer currently based in Milan. I am passionate about control
 * [Robot Sanding Trial Simulation](https://youtu.be/c1v4UBewbBM)
 * [Simple Robot Pick and Place using compliant suction gripper](https://youtu.be/B50YrhFPcNk)
 * [CAD Low cost Quasi Direct Drive Actuator(Planetary gear drive)](https://youtu.be/Ytiufhvt6QA)
-* Soft Robotic Gripper attempt
+* Soft Robotic Gripper attempts
   - [Milling Process for Mould of silicone gripper](https://youtu.be/paAQw4J9Du0)
   - [Silicone robot gripper 1: Mixing Silicone with Aluminium Hydroxide and Coloring](https://youtu.be/ouWJBxdiI-c)
   - [Silicone robot gripper 2: Adding hardener to the mixture](https://youtu.be/Mp9gw4YVtIo)
