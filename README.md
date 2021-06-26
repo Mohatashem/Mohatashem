@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Mohtashem
 
 I am a robotics engineer currently based in Milan. I am passionate about control systems, computer vision, automation and soft robotics development.
-* 🔭 I’m currently working on ROS based navigation in mobile robots
+* 🔭 I’m currently working on ROS developement for in-orbital robotic manipulation scenarios
 * 🌱 I’m currently learning the ROS2 framework
 * 👯 I’m looking to collaborate on research projects involving robotic grasping control and/or soft robotic applications in locomotion and gripping.
 * 💬 Ask me about control algorithms (force , null-space and adaptive-fuzzy), additive and subtractive manufacturing and Industrial Automation
