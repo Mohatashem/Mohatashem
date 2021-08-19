@@ -1,6 +1,7 @@
 ## Hi there 👋 I am Mohtashem
 
-I am a robotics engineer currently based in Milan. I am passionate about control systems, computer vision, automation and soft robotics development.
+I am a robotics engineer currently based in Luxembourg. I am passionate about control systems, computer vision, automation and robotics development. Currently I work as a doctoral researcher in the SpaceR research group at SnT, University of Luxembourg.
+
 * 🔭 I’m currently working on ROS developement for in-orbital robotic manipulation scenarios
 * 🌱 I’m currently learning the ROS2 framework
 * 👯 I’m looking to collaborate on research projects involving robotic grasping control and/or soft robotic applications in locomotion and gripping.
