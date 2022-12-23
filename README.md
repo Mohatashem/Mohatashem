@@ -14,7 +14,7 @@ I am a robotics engineer currently based in Luxembourg. I am passionate about co
   
 ## Past research work:
 * Emulating On-Orbit Interactions Using Forward Dynamics Based Cartesian Motion
-  - [Paper](Emulating On-Orbit Interactions Using Forward Dynamics Based Cartesian Motion)
+  - [Paper](https://arxiv.org/abs/2209.15406)
   - [Video](https://www.youtube.com/watch?v=N2KYCKJ4KM4)
 * Hardware-in-the-loop Proximity Operations in Cislunar Space
   - [Paper](http://hdl.handle.net/10993/52141)
