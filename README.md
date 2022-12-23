@@ -13,6 +13,16 @@ I am a robotics engineer currently based in Luxembourg. I am passionate about co
   - Linkedin: www.linkedin.com/in/mohtashem-reyaz-m-21049282
   
 ## Past research work:
+* Emulating On-Orbit Interactions Using Forward Dynamics Based Cartesian Motion
+  - [Paper](Emulating On-Orbit Interactions Using Forward Dynamics Based Cartesian Motion)
+  - [Video](https://www.youtube.com/watch?v=N2KYCKJ4KM4)
+* Hardware-in-the-loop Proximity Operations in Cislunar Space
+  - [Paper](http://hdl.handle.net/10993/52141)
+  
+https://user-images.githubusercontent.com/40743268/209248931-25a35d52-211b-49c5-9e81-9539ea0dfa2d.mp4
+
+
+
 * Safety-Enhanced Human-Robot Interaction Control of Redundant Robot for Teleoperated Minimally Invasive Surgery
   - [Paper](https://ieeexplore.ieee.org/abstract/document/8463148)
   - [Video](https://www.youtube.com/watch?v=xGYN2XAzz4M)
